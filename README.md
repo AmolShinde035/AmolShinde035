@@ -1,4 +1,18 @@
 <h1 align="center">Hi 👋, I'm Amol Shinde</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/amol-shinde-81149a226/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>  
+  <a href="https://www.hackerrank.com/amolshindec10531" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://leetcode.com/amolshindec105335_/" target="_blank">
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rv.png" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
+
+
+
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amolshinde035&label=Profile%20views&color=0e75b6&style=flat" alt="amolshinde035" /> </p>
