@@ -9,6 +9,9 @@
   <a href="https://leetcode.com/amolshindec105335_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
   </a>
+ 
+  <div><img align="right" height="150" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
+</div>
 </div>
 <h1 align="center">Hi 👋, I'm Amol Shinde</h1>
 <h3 align="center">A passionate full stack developer</h3>
@@ -18,6 +21,9 @@
  <!-- Ask me about **java react mysql .net c c#** 
 
 📫 How to reach me **amolshindec105335@gmail.com** -->
+
+
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
