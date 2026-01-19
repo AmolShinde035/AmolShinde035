@@ -20,19 +20,11 @@
          />
   </div>
 </div>
-<h1 align="center">
-  Hi 👋, I'm Amol Shinde
-</h1>
-
+<h1 align="center">Hi 👋, I'm Amol Shinde</h1>
+<h3 align="center">Full Stack Developer</h3>
 <p align="center" style="font-size:14px;">
-  A passionate full stack developer
+  Actively seeking software developer opportunities
 </p>
-
-<h3 align="center">
-  Actively looking for new opportunities | Java • Spring Boot • React
-</h3>
-
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=amolshinde035&label=Profile%20views&color=0e75b6&style=flat"
